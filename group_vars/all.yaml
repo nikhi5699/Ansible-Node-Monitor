@@ -1,6 +1,6 @@
 smtp_server: "smtp.gmail.com"
 smtp_port: 587
-email_user: "nikhilcherukupally2@gmail.com"
-email_pass: "nfhb pebz nfkv kbgt"
-alert_recipient: "nikhilreddy5699@gmail.com"
+email_user: "from email"
+email_pass: "from email-passkey"
+alert_recipient: "to email"
 
