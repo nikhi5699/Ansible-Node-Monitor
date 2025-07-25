@@ -35,4 +35,4 @@
           cpu: "{{ cpu_usage.stdout | float | round(2) }}"
           mem: "{{ mem_usage.stdout | float | round(2) }}"
           disk: "{{ disk_usage.stdout | float | round(2) }}"
-
+    
