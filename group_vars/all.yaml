@@ -1,6 +1,6 @@
 smtp_server: "smtp.gmail.com"
 smtp_port: 587
 email_user: "nikhilreddy5699@gmail.com"
-email_pass: "aeew uvdg retk rofm"
+email_pass: ""
 alert_recipient: "nikhilcherukupally2@gmail.com"
 
